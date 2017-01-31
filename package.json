@@ -1,0 +1,26 @@
+{
+  "name": "what-has-he-done-data",
+  "version": "1.0.0",
+  "description": "The data for what-has-he-done.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/what-has-he-done-data.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/what-has-he-done-data/issues"
+  },
+  "homepage": "https://github.com/jimkang/what-has-he-done-data",
+  "devDependencies": {
+    "eslint": "^3.6.1",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {}
+}

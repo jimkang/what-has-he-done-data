@@ -1,0 +1,177 @@
+--- 
+-
+  name: Trump tells EPA to freeze all grants and contracts, silenced
+  stamp: 2017-01-24
+  description: >
+    <p>"It has instructed EPA officials to freeze all grants and contracts, a move that could affect everything from state-led climate research to localized efforts to improve air and water quality to environmental justice projects aimed at helping poor communities."</p>
+    <p>EPA told to cease all communications.</p>
+  urls:
+    -
+      name: The Trump Administration Really Doesn't Want EPA Employees Talking to the Press
+      url: http://www.motherjones.com/environment/2017/01/trump-epa-gag-order      
+    -
+      name: 11 stories from President Trump’s first 100 hours that deserve more attention
+      url: https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/01/25/daily-202-11-stories-from-president-trump-s-first-100-hours-that-deserve-more-attention/588823b1e9b69b432bc7e08a/
+    -
+      name: Trump administration tells EPA to freeze all grants, contracts
+      url: https://www.washingtonpost.com/news/energy-environment/wp/2017/01/23/trump-administration-tells-epa-to-freeze-all-grants-contracts/
+  tags:
+    - environment
+    - dismantling
+    - silencing
+- 
+  name: Warren votes to confirm Ben Carson as Secretary of Housing and Urban Development
+  stamp: 2017-01-24
+  description:
+    Elizabeth Warren votes to confirm Ben Carson as HUD Secretary. After receiving lots of feedback about that from constituents, she offered this <a href="https://www.facebook.com/senatorelizabethwarren/posts/716640075165155">explanation</a>, in which she states that, despite being completely unqualified, because he made promises in writing, she feels he is accountable.
+  urls: 
+    -
+      name: Boston Magazine
+      url: http://www.bostonmagazine.com/news/blog/2017/01/24/warren-markey-trump-cabinet-picks/
+  image: ""
+  tags: 
+    - cabinet
+    - democrats
+-
+  name: Health and Human Services silenced
+  stamp: 2017-01-24
+  description:  "Department of Health and Human Services were reportedly directed “not to send any correspondence to public officials (to include Members of Congress and state and local officials) between now and February 3, unless specifically authorized by the Department."
+  urls:
+    - 
+      name: Reports of Federal Government Agencies Directed Not to Communicate with the American Public
+      url: https://sunlightfoundation.com/list-of-federal-government-agencies-told-not-to-communicate-with-the-public/
+  tags:
+    - silencing
+-
+  name: Health and Human Services silenced
+  stamp: 2017-01-24
+  description: "Department of Health and Human Services were reportedly directed “not to send any correspondence to public officials (to include Members of Congress and state and local officials) between now and February 3, unless specifically authorized by the Department."
+  urls:
+    - 
+      name: Reports of Federal Government Agencies Directed Not to Communicate with the American Public
+      url: https://sunlightfoundation.com/list-of-federal-government-agencies-told-not-to-communicate-with-the-public/
+  tags:
+    - silencing
+-
+  name: Department of Agriculture silenced
+  stamp: 2017-01-23
+  description: 'Department of Agriculture’s Agricultural Research Service was directed not to release “any public-facing documents,” including, but not limited to, “news releases, photos, fact sheets, news feeds, and social media content,” according to an email obtained by the Associated Press.'
+  urls:
+    - 
+      name: Reports of Federal Government Agencies Directed Not to Communicate with the American Public
+      url: https://sunlightfoundation.com/list-of-federal-government-agencies-told-not-to-communicate-with-the-public/
+  tags:
+    - silencing
+    - science
+-
+  name: NIH silenced
+  stamp: 2017-01-24
+  description: 'The National Institutes of Health were “to hold on publishing new rules or guidance in the Federal Register or other public forums and discussing them with public officials until the Administration has had an opportunity to review them,” per Institutes spokeswoman Renate Myles.'
+  urls:
+    - 
+      name: Reports of Federal Government Agencies Directed Not to Communicate with the American Public
+      url: https://sunlightfoundation.com/list-of-federal-government-agencies-told-not-to-communicate-with-the-public/
+  tags:
+    - silencing
+    - science
+-
+  name: Department of Transportation silenced
+  stamp: 2017-01-23
+  description: 'The Department of Transportation told employees not to publish news releases or social media until they receive new guidance from the Trump administration.'
+  urls:
+    - 
+      name: Reports of Federal Government Agencies Directed Not to Communicate with the American Public
+      url: https://sunlightfoundation.com/list-of-federal-government-agencies-told-not-to-communicate-with-the-public/
+  tags:
+    - silencing
+-
+  name: Trump stops agencies from issuing regulations
+  stamp: 2017-01-24
+  description: The regulations cancelled include EPA regulations, rules about mistreating horses, and a rule about inspecting aircraft fuselages for cracks.
+  urls:
+    -
+      name: Agencies interpret Trump regulatory freeze broadly
+      url: http://www.politico.com/blogs/under-the-radar/2017/01/agencies-give-trump-regulatory-freeze-broad-reach-234149
+  tags:
+    - dismantling
+    - safety
+-
+  name: Sessions refuses to recuse himself from investigations into Trump's constitutional violations
+  stamp: 2017-01-23
+  urls:
+    -
+      name: Sessions won't recuse himself from DOJ Trump probes
+      url: http://www.politico.com/story/2017/01/jeff-sessions-trump-probes-234087
+  tags:
+    - corruption
+-
+  name: The State Department’s entire senior management team resigns
+  stamp: 2017-01-26
+  description: >
+    They were taking on responsibilities and working with the transition team, as if they planned to keep serving, but after a meeting with Tillerson, they suddenly resigned.
+    <blockquote>“It’s the single biggest simultaneous departure of institutional memory that anyone can remember, and that’s incredibly difficult to replicate,” said David Wade, who served as State Department chief of staff under Secretary of State John Kerry. “Department expertise in security, management, administrative and consular positions in particular are very difficult to replicate and particularly difficult to find in the private sector.”</blockquote>
+  urls:
+    -
+      name: The State Department’s entire senior management team just resigned
+      url: https://www.washingtonpost.com/news/josh-rogin/wp/2017/01/26/the-state-departments-entire-senior-management-team-just-resigned/
+  tags:
+    - dismantling
+    - foreign-relations
+-
+  name: Trump cancels TPP
+  stamp: 2017-01-23
+  urls:
+    -
+      name: Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal
+      url: https://www.nytimes.com/2017/01/23/us/politics/tpp-trump-trade-nafta.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news
+  tags:
+    - trade
+-
+  name: Trump cuts funding to aid organizations that offer abortion counseling
+  stamp: 2017-01-23
+  description: >
+    <blockquote>Trump’s version is a radically expanded one, as reporters have begun to notice. In the past, foreign N.G.O.s had to accept the conditions set out by the Mexico City Policy in order to get funds from two stipulated sources: U.S.A.I.D. and, after 2003, the U.S. State Department. But Trump’s version extends the requirement to global aid furnished by all U.S. governmental departments and agencies. This is both sweeping and, in the Trumpian way, very confusing to the people trying to do their jobs in the federal government. It could potentially affect an enormous range of health activities that the United States government engages in around the world, including work combatting H.I.V. and many other infectious diseases, and promoting maternal and child nutrition.</blockquote>
+  urls:
+    -
+      name: TRUMP MAKES THE GLOBAL GAG RULE ON ABORTION EVEN WORSE
+      url: http://www.newyorker.com/news/daily-comment/trump-makes-the-global-gag-rule-on-abortion-even-worse
+  tags:
+    - abortion
+    - women
+    - dismantling
+-
+  name: Trump orders Dakota Access Pipeline environmental reviews stopped
+  stamp: 2017-01-25
+  description: >
+    <blockquote>In December, the US Army Corps of Engineers rejected the permit that the project needed for its completion.
+    <p>But on Tuesday, Trump signed a series of directives aimed at speeding up the pipeline's approval process. One of them ordered an end to what he called "incredibly cumbersome" environmental reviews. Those reviews are seen by many government agencies like the Environmental Protection Agency, as well as environmentalists, as cornerstones to ensuring the environment is taken into account when new construction projects are ordered.</p>
+  urls:
+    -
+      name: Protesters say a leak in the Dakota Access pipeline, which Trump just advanced, could be a 'death sentence'
+      url: http://www.businessinsider.com/trump-dakota-access-pipeline-dapl-water-environment-2017-1
+  tags:
+    - environment
+    - dismantling    
+-
+  name: Trump orders federal agencies to ask manufacturing corporations how to reduce regulation upon themselves
+  stamp: 2017-01-26
+  description: >
+    <blockquote>Section 2 of the Presidential Memo on Manufacturing directs the heads of all federal agencies to (1) expedite reviews and approvals for proposals to build new or expand existing manufacturing facilities; and (2) reduce regulatory burdens affecting domestic manufacturing.</blockquote>
+    There is nothing about considering the fairness or public benefit of the regulations in his memorandum.
+  urls:
+    -
+      name: President Trump Directs Federal Agencies to Solicit Input from Manufacturing Sector on Streamlined Permitting and Reduction of Regulatory Burdens
+      url: http://www.natlawreview.com/article/president-trump-directs-federal-agencies-to-solicit-input-manufacturing-sector
+-
+  name: Trump suspends U.S. Refugee Admissions Program, shuts out Syrian refugees fleeing war
+  stamp: 2017-01-27
+  description: >
+    On <a href="https://twitter.com/Stl_Manifest">Holocaust Remembrance Day</a>, Trump signed an executive order specifically shutting out Syrian refugees fleeing a horrific civil war and suspends the U.S. Refugee Admissions Program for three months.
+  urls:
+    -
+      name: Trump Signs Two Executive Orders; Expands Power of Military, ‘Extreme Vetting’
+      url: http://www.nbcnews.com/news/us-news/trump-signs-two-executive-orders-expands-power-military-extreme-vetting-n713336
+  tags:
+    - racism
+    - immigration
+    - dismantling
