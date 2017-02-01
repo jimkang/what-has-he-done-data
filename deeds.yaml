@@ -179,3 +179,14 @@
     -
       name: 'Some news site'
       url: 'http://news.google.com'
+-
+  name: 'Trump orders two regulations to be removed for every one proposed'
+  stamp: '2017-01-30'
+  description: null
+  urls:
+    -
+      name: 'Executive order'
+      url: 'https://www.whitehouse.gov/the-press-office/2017/01/30/presidential-executive-order-reducing-regulation-and-controlling'
+    -
+      name: 'Trump signs executive order aiming to slash regulations'
+      url: 'http://www.cnbc.com/2017/01/30/trump-set-to-sign-executive-order-aiming-to-slash-regulations.html'
