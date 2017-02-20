@@ -1,5 +1,5 @@
 - name: 'Trump tells EPA to freeze all grants and contracts, silenced'
-  stamp: 2017-01-24T00:00:00.000Z
+  stamp: '2017-01-24T00:00:00.000Z'
   description: >
     <p>"It has instructed EPA officials to freeze all grants and contracts, a
     move that could affect everything from state-led climate research to
@@ -26,7 +26,7 @@
 - name: >-
     Warren votes to confirm Ben Carson as Secretary of Housing and Urban
     Development
-  stamp: 2017-01-24T00:00:00.000Z
+  stamp: '2017-01-24T00:00:00.000Z'
   description: >-
     Elizabeth Warren votes to confirm Ben Carson as HUD Secretary. After
     receiving lots of feedback about that from constituents, she offered this <a
@@ -43,7 +43,7 @@
     - democrats
     - collaborators
 - name: Health and Human Services silenced
-  stamp: 2017-01-24T00:00:00.000Z
+  stamp: '2017-01-24T00:00:00.000Z'
   description: >-
     Department of Health and Human Services were reportedly directed “not to
     send any correspondence to public officials (to include Members of Congress
@@ -58,7 +58,7 @@
   tags:
     - silencing
 - name: Department of Agriculture silenced
-  stamp: 2017-01-23T00:00:00.000Z
+  stamp: '2017-01-23T00:00:00.000Z'
   description: >-
     Department of Agriculture’s Agricultural Research Service was directed not
     to release “any public-facing documents,” including, but not limited to,
@@ -74,7 +74,7 @@
     - silencing
     - science
 - name: NIH silenced
-  stamp: 2017-01-24T00:00:00.000Z
+  stamp: '2017-01-24T00:00:00.000Z'
   description: >-
     The National Institutes of Health were “to hold on publishing new rules or
     guidance in the Federal Register or other public forums and discussing them
@@ -90,7 +90,7 @@
     - silencing
     - science
 - name: Department of Transportation silenced
-  stamp: 2017-01-23T00:00:00.000Z
+  stamp: '2017-01-23T00:00:00.000Z'
   description: >-
     The Department of Transportation told employees not to publish news releases
     or social media until they receive new guidance from the Trump
@@ -104,7 +104,7 @@
   tags:
     - silencing
 - name: Trump stops agencies from issuing regulations
-  stamp: 2017-01-24T00:00:00.000Z
+  stamp: '2017-01-24T00:00:00.000Z'
   description: >-
     The regulations cancelled include EPA regulations, rules about mistreating
     horses, and a rule about inspecting aircraft fuselages for cracks.
@@ -118,14 +118,14 @@
 - name: >-
     Sessions refuses to recuse himself from investigations into Trump's
     constitutional violations
-  stamp: 2017-01-23T00:00:00.000Z
+  stamp: '2017-01-23T00:00:00.000Z'
   urls:
     - name: Sessions won't recuse himself from DOJ Trump probes
       url: 'http://www.politico.com/story/2017/01/jeff-sessions-trump-probes-234087'
   tags:
     - corruption
 - name: The State Department’s entire senior management team resigns
-  stamp: 2017-01-26T00:00:00.000Z
+  stamp: '2017-01-26T00:00:00.000Z'
   description: >
     They were taking on responsibilities and working with the transition team,
     as if they planned to keep serving, but after a meeting with Tillerson, they
@@ -144,7 +144,7 @@
     - dismantling
     - foreign-relations
 - name: Trump cancels TPP
-  stamp: 2017-01-23T00:00:00.000Z
+  stamp: '2017-01-23T00:00:00.000Z'
   urls:
     - name: 'Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal'
       url: >-
@@ -152,7 +152,7 @@
   tags:
     - trade
 - name: Trump cuts funding to aid organizations that offer abortion counseling
-  stamp: 2017-01-23T00:00:00.000Z
+  stamp: '2017-01-23T00:00:00.000Z'
   description: >
     <blockquote>Trump’s version is a radically expanded one, as reporters have
     begun to notice. In the past, foreign N.G.O.s had to accept the conditions
@@ -175,7 +175,7 @@
     - healthcare
     - dismantling
 - name: Trump orders Dakota Access Pipeline environmental reviews stopped
-  stamp: 2017-01-25T00:00:00.000Z
+  stamp: '2017-01-25T00:00:00.000Z'
   description: >
     <blockquote>In December, the US Army Corps of Engineers rejected the permit
     that the project needed for its completion. <p>But on Tuesday, Trump signed
@@ -197,7 +197,7 @@
 - name: >-
     Trump orders federal agencies to ask manufacturing corporations how to
     reduce regulation upon themselves
-  stamp: 2017-01-26T00:00:00.000Z
+  stamp: '2017-01-26T00:00:00.000Z'
   description: >
     <blockquote>Section 2 of the Presidential Memo on Manufacturing directs the
     heads of all federal agencies to (1) expedite reviews and approvals for
@@ -215,7 +215,7 @@
 - name: >-
     Trump suspends U.S. Refugee Admissions Program, shuts out Syrian refugees
     fleeing war, bans Muslims from entering coutry
-  stamp: 2017-01-27T00:00:00.000Z
+  stamp: '2017-01-27T00:00:00.000Z'
   description: >
     <p>On <a href="https://twitter.com/Stl_Manifest">Holocaust Remembrance
     Day</a>, Trump signs an executive order specifically shutting out Syrian
@@ -243,7 +243,7 @@
 - name: >-
     Republicans Tom McClintock, Rob Portman, Tom MacArthur and others secretly
     admit that dismantling ACA will hurt Americans
-  stamp: 2017-01-27T00:00:00.000Z
+  stamp: '2017-01-27T00:00:00.000Z'
   urls:
     - name: >-
         In leaked audio, Republicans destroy their own public talking points on
@@ -261,7 +261,7 @@
     <blockquote>The executive action empowers local and state police to “perform
     the functions of immigration officers in relation to the investigation,
     apprehension, or detention” of undocumented immigrants.</blockquote>
-  stamp: 2017-01-25T00:00:00.000Z
+  stamp: '2017-01-25T00:00:00.000Z'
   urls:
     - name: The Scariest Portions of Trump’s Big Immigration Executive Orders
       url: >-
@@ -273,7 +273,7 @@
     otherwise failed to honor any detainers with respect to such aliens.” So, an
     undocumented immigrant crime report/sanctuary city shame list.</li>
         <li>It establishes a special “Office for Victims of Crimes Committed by Removable Aliens.”</li></ul></blockquote>
-  stamp: 2017-01-25T00:00:00.000Z
+  stamp: '2017-01-25T00:00:00.000Z'
   urls:
     - name: The Scariest Portions of Trump’s Big Immigration Executive Orders
       url: >-
@@ -282,7 +282,7 @@
     Trump removes chairman of the Joint Chiefs and Director of National
     Intelligence from the National Security Council, adds his white nationalist
     advisor Steve Bannon
-  stamp: 2017-01-28T00:00:00.000Z
+  stamp: '2017-01-28T00:00:00.000Z'
   description: >
     <blockquote><a
     href="https://twitter.com/joshrogin/status/825551239723286528">Steve Bannon
@@ -310,7 +310,7 @@
     - dismantling
     - racism
 - name: Trump orders two regulations to be removed for every one proposed
-  stamp: 2017-01-30T00:00:00.000Z
+  stamp: '2017-01-30T00:00:00.000Z'
   description: >
     <blockquote>(a)  Unless prohibited by law, whenever an executive department
     or agency (agency) publicly proposes for notice and comment or otherwise
@@ -333,7 +333,7 @@
     - corporations
     - safety
 - name: Trump forces out Border Patrol chief
-  stamp: 2017-01-26T00:00:00.000Z
+  stamp: '2017-01-26T00:00:00.000Z'
   description: >
     <blockquote>Border Patrol Chief Mark Morgan said he was asked to leave and
     decided to resign rather than fight the request, according to a U.S.
@@ -346,4 +346,15 @@
   tags:
     - dismantling
     - destablization
-
+- name: Deed oOqyNraxHRCeOZ
+  stamp: '2017-02-20T01:45:43.855Z'
+  description: 'A description with some random junk: nSdxcCWMFt'
+  urls:
+    - name: Some news site FBpI
+      url: 'http://something.something/CGJtpDip'
+    - name: Some news site jUgO
+      url: 'http://something.something/jcRCTrJk'
+  tags:
+    - mHzlnvPGdT
+    - WjHrMEPGsO
+    - ieYGRRfbzw
